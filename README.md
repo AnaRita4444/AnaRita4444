@@ -17,7 +17,7 @@ This portfolio demonstrates manual testing skills applied to a demo e-commerce w
    - **Status** - Ready to test, Pass, Fail and Blocked/Skipped
    - **Test Environment** - Browser, OS, or other environment details  
 
-2. **Bug Reports** - 1–2 example defects documented in Word, including:
+2. **Bug Reports** - Example defects documented in Word, including:
    - Steps to reproduce  
    - Expected Result
    - Actual result
