@@ -1,7 +1,7 @@
 # Manual Testing Portfolio – Demo Web Shop (https://demowebshop.tricentis.com/)
 
 ## Overview
-This portfolio demonstrates manual testing skills applied to a demo e-commerce website (Demo Webshop). It includes test cases for functional areas such as **registration**, **search**, and **shopping cart**, along with 1–2 example bug reports selected from all bugs found. Screenshots of test cases and bugs logged in Jira and Zephyr are also included. Excel was the main tool used for creating and managing the documents.
+This portfolio demonstrates manual testing skills applied to a demo e-commerce website (Demo Webshop). It includes test cases for functional areas such as **registration**, **search**, and **shopping cart**, along with 1–2 example bug reports selected from all bugs found. Screenshots of test cases and bugs logged in Jira and Zephyr are also included. Excel was the main tool used.
 
 
 ## Artifacts Included (Excel)
